@@ -10,7 +10,7 @@ end
 def introduction_with_language_optional(name, language)
 if language == nil
   language = "Ruby"
-else language = language
+#else language = language
 end
 
 
