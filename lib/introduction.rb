@@ -9,7 +9,7 @@ end
 
 def introduction_with_language_optional(name, language)
 if language == nil
-  language == "Ruby"
+  language = "Ruby"
 end
 
 end
